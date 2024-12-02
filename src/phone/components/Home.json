@@ -301,31 +301,6 @@
                                         {
                                           "attributes": {
                                             "twx-widget": "",
-                                            "widget-id": "column-3",
-                                            "widget-name": "column-3",
-                                            "is-widget-container": "true",
-                                            "justification": "center",
-                                            "alignment": "center",
-                                            "padding": "3px"
-                                          },
-                                          "name": "twx-col",
-                                          "children": [
-                                            {
-                                              "attributes": {
-                                                "class": "twx-widget-bindings",
-                                                "slot": "bindings",
-                                                "ptc-rendered": ""
-                                              },
-                                              "name": "twx-widget-bindings"
-                                            },
-                                            {
-                                              "name": "twx-container-content"
-                                            }
-                                          ]
-                                        },
-                                        {
-                                          "attributes": {
-                                            "twx-widget": "",
                                             "widget-id": "column-4",
                                             "widget-name": "column-4",
                                             "is-widget-container": "true",

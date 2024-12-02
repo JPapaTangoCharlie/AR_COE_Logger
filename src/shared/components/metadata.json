@@ -26,7 +26,7 @@
   "accessType": "private",
   "widgetsUsage": [
     {
-      "timestamp": "2024-11-27T13:18:05.850Z",
+      "timestamp": "2024-12-02T14:36:54.936Z",
       "action": "LATEST_SAVE",
       "usage": {
         "twx-view": 1,
@@ -37,7 +37,7 @@
         "twx-overlay-body": 1,
         "twx-gridlayout": 1,
         "twx-row": 1,
-        "twx-col": 4,
+        "twx-col": 3,
         "twx-select": 1,
         "twx-button": 1
       }
